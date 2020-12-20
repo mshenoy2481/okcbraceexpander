@@ -1,2 +1,2 @@
 # okcbraceexpander
-Bash brace expander (OKCupid test)
+Bash brace expander
